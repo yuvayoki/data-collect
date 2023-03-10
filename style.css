@@ -1,0 +1,35 @@
+body{
+  background-color: rgb(19, 182, 237);
+}
+.container {
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+thead th {
+  background-color: #f5f5f5;
+}
+
+input[type=text], input[type=number] {
+  padding: 5px;
+  width: 100%;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 3px;
+}
+
